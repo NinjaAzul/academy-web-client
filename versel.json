@@ -1,0 +1,10 @@
+ 
+{
+   "builds": [
+      {
+         "name": "build",
+         "cmd": "npm run build",
+         "cwd": "src"
+      }
+   ]
+}
